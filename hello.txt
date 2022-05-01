@@ -1,4 +1,8 @@
 hello,git!
 rm: cannot remove 'hello.txt.swp': No such file or director
+<<<<<<< HEAD
 rm: cannot remove 'hello.txt.swp': No such file or dir 
 master
+rm: cannot remove 'hello.txt.swp': No such file or dir
+hot-fix test
+
